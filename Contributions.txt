@@ -1,0 +1,18 @@
+Contributions
+Cristea Petru-Theodor
+-> MT pipeline
+-> Reddit Scraping
+-> baselines experiments
+-> annotations
+
+Mihai Militaru
+-> Reddit Scraping
+-> data analysis
+-> annotations
+-> final paper
+
+Mihai Dilirici
+-> Reddit Scraping
+-> data analysis
+-> annotations
+-> final paper
